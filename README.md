@@ -12,7 +12,7 @@ Do you have it installed?  Ok!  The next step is to clone this repository, which
 
 ```git clone https://github.com/toronto-ai/workshops.git```
 
-If you don't have git installed, you can find it <a href="https://www.continuum.io/downloads" target="_blank">here</a>
+If you don't have git installed, you can find it <a href="https://git-scm.com/downloads" target="_blank">here</a>.
 
 Now, once you have it cloned, go into that folder and type
 
