@@ -18,4 +18,8 @@ Now, once you have it cloned, go into that folder and type
 
 ```jupyter notebook```
 
-You're ready to go!
+A browser window will open and then navigate to python/scikit/digit-recognition.ipynb.
+
+
+Cheers,
+The Toronto AI team
