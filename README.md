@@ -17,8 +17,6 @@ If you don't have git installed, you can find it <a href="https://git-scm.com/do
 
 Now, once you have it cloned, go into that folder and type
 
-### Load the example
-
 ```jupyter notebook```
 
 A browser window will open and then navigate to python/scikit/digit-recognition.ipynb.
