@@ -1,4 +1,4 @@
-# workshops
+# Toronto AI
 
 ## Hi!
 
