@@ -12,7 +12,7 @@ Do you have it installed?  Ok!  The next step is to clone this repository, which
 
 ```git clone https://github.com/toronto-ai/workshops.git```
 
-If you don't have git installed, you can find it <a href="https://git-scm.com/downloads" target="_blank">here</a>.
+If you don't have git installed, you can find it <a href="https://git-scm.com/downloads" target="_blank">here</a>.  If you're running windows, then after the install, launch 'Git CMD'.  If you're on a Mac, no extra steps are needed.
 
 Now, once you have it cloned, go into that folder and type
 
