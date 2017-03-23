@@ -10,3 +10,5 @@
 5) Host a session at City Hall
 
 6) Create groups that compete on a challenge
+
+7) Repeat-once events
